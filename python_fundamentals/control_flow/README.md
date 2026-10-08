@@ -11,3 +11,4 @@ Proyecto del curso sobre flujo de control en Python: sentencias condicionales
 - `print_alphabt.py`: imprime el alfabeto en minúsculas sin las letras q y e.
 - `print_hexa.py`: imprime los números del 0 al 98 en decimal y hexadecimal.
 - `print_comb2.py`: imprime los números del 00 al 99 separados por coma y espacio.
+- `print_comb3.py`: imprime todas las combinaciones de dos dígitos diferentes.
