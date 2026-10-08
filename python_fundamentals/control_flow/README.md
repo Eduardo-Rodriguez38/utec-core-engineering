@@ -7,3 +7,4 @@ Proyecto del curso sobre flujo de control en Python: sentencias condicionales
 ## Archivos
 
 - `positive_or_negative.py`: indica si un número aleatorio es positivo, cero o negativo.
+- `last_digit.py`: muestra el último dígito de un número aleatorio y lo clasifica.
