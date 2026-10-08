@@ -10,3 +10,4 @@ Proyecto del curso sobre flujo de control en Python: sentencias condicionales
 - `last_digit.py`: muestra el último dígito de un número aleatorio y lo clasifica.
 - `print_alphabt.py`: imprime el alfabeto en minúsculas sin las letras q y e.
 - `print_hexa.py`: imprime los números del 0 al 98 en decimal y hexadecimal.
+- `print_comb2.py`: imprime los números del 00 al 99 separados por coma y espacio.
