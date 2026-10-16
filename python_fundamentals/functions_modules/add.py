@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Program that imports add from add_0 and prints a sum."""
+"""Program that imports the add function and prints a sum."""
 from add_0 import add
 
 if __name__ == "__main__":
