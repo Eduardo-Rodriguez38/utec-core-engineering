@@ -11,3 +11,4 @@ Proyecto del curso UTEC sobre listas, tuplas, conjuntos y diccionarios.
 - add_tuple.py: suma dos tuplas de dos enteros.
 - common_elements.py: devuelve los elementos comunes de dos conjuntos.
 - update_dictionary.py: reemplaza o agrega una clave/valor en un diccionario.
+- best_score.py: devuelve la clave con el valor mas alto.
