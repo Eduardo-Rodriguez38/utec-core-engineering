@@ -7,3 +7,4 @@ Proyecto de entrada/salida en Python: abrir, leer y escribir archivos usando la 
 | Archivo | Descripción |
 |---------|-------------|
 | `read_file.py` | Lee un archivo de texto UTF-8 y lo imprime en stdout |
+| `write_file.py` | Escribe un texto en un archivo UTF-8 y devuelve los caracteres escritos |
