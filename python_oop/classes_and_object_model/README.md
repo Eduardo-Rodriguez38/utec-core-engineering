@@ -23,6 +23,7 @@ Proyecto de introducción a la Programación Orientada a Objetos (POO) en Python
 | `5-square.py` | Agrega el método `my_print()` que imprime el cuadrado con `#` |
 | `6-square.py` | Agrega `position` (getter/setter validado), `__str__()` y `my_print()` con desplazamiento |
 | `1-rectangle.py` | Define `Rectangle` con `width` y `height` privados, con getters y setters validados |
+| `2-rectangle.py` | Agrega los métodos `area()` y `perimeter()` a `Rectangle` |
 
 ## Requisitos
 
