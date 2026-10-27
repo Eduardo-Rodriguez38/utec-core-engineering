@@ -21,6 +21,7 @@ Proyecto de introducción a la Programación Orientada a Objetos (POO) en Python
 | `3-square.py` | Agrega el método `area()` que devuelve el área del cuadrado |
 | `4-square.py` | Agrega getter y setter (`@property`) para `size`, con validación en el setter |
 | `5-square.py` | Agrega el método `my_print()` que imprime el cuadrado con `#` |
+| `6-square.py` | Agrega `position` (getter/setter validado), `__str__()` y `my_print()` con desplazamiento |
 
 ## Requisitos
 
