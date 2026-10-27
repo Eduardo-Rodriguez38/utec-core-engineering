@@ -18,6 +18,7 @@ Proyecto de introducción a la Programación Orientada a Objetos (POO) en Python
 | `0-square.py` | Define una clase vacía `Square` que representa un cuadrado |
 | `1-square.py` | Define `Square` con un atributo privado `size` asignado al crear el objeto |
 | `2-square.py` | Agrega validación de `size`: debe ser entero (`TypeError`) y mayor o igual a 0 (`ValueError`) |
+| `3-square.py` | Agrega el método `area()` que devuelve el área del cuadrado |
 
 ## Requisitos
 
